@@ -1,0 +1,5 @@
+097f4d40-f08d-11ec-91f7-0242ac130002-097f4db8-f08d-11ec-91f7-0242ac130002
+
+
+curl --location --request GET 'https://api.stormglass.io/forecast?lat=58.5&lng=17.8' \
+--header 'Authentication-Token: {097f4d40-f08d-11ec-91f7-0242ac130002-097f4db8-f08d-11ec-91f7-0242ac130002}'
